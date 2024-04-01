@@ -1,4 +1,3 @@
-# Power-Bi-Dashboard
 # Ecommerce Sales and Profit Dashboard with Power BI
 
 ## Overview
@@ -30,9 +29,8 @@ The data used in this project is sourced from CSV files, which contain informati
 Your feedback is valuable! If you have any suggestions, feature requests, or encounter any issues while using the dashboard, please feel free to open an issue or reach out to the project maintainers.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+- [Your Name](https://github.com/anusshkaha)
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
