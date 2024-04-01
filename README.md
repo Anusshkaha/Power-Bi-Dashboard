@@ -29,7 +29,7 @@ The data used in this project is sourced from CSV files, which contain informati
 Your feedback is valuable! If you have any suggestions, feature requests, or encounter any issues while using the dashboard, please feel free to open an issue or reach out to the project maintainers.
 
 ## Contributors
-- [Your Name](https://github.com/anusshkaha)
+- (https://github.com/anusshkaha)
 
 
 ## License
